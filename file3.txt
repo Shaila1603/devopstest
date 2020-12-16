@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test file3 from branch dev
 test file3 update
 
+=======
+file 3 - dev branch
+>>>>>>> f85eae43b2572003025781c7016abeda208e6288
